@@ -1,0 +1,26 @@
+Report for the Titanic Tragedy Dataset
+
+Introduction -
+
+We all know about the famous titanic tragedy, where there were many deaths and some passengers, who were said to be lucky, survived. How did the survivors survive? Were there any factors that affected the survival of the passengers? Let's have a look. Maybe the sex of the passengers or the age of the passengers were a factor of survival. We will also have a look at the passenger class of the passengers, as different passenger classes were located at different locations on the ship.
+
+
+
+Data -
+
+The given dataset contains the Passenger ID. It contains details like the passenger class, their name, age and sex. This dataset also tells us if the passenger survived or not.
+
+
+
+Methods and Analysis -
+
+We first calculate the number of deaths of the passengers from each passenger class by counting the number of passengers in each class and subtracting the number of survivors from each class. On plotting the graph for the number of deaths of passengers from the three different passenger classes, we can see a statistically significant rise in the number of deaths of the passengers who were in passenger class 3. This number was almost double the number of deaths in the other two classes.
+
+We further wanted to check if the sex of the passenger was a factor that affected the survival of the passengers so we plotted a graph between the number of female survivors and number of male survivors. Here too, we can see a statistically significant number of female survivors. The number of female survivors was a little more than double the number of male survivors.
+
+On plotting a graph for the number of survivors of different ages, we can see that the age group of 20-30 had the most number of survivors. The number of survivors from this age group was comparatively higher than the number of survivors from other age groups.
+
+
+Result -
+
+On performing the analysis, we can see a statistically significant difference in between the number of female survivors and male survivors, where female survivors were more than double the male survivors. We also saw a statistically significant diffence between the number of deaths in passenger class 3 than the other classes, passenger class 3 having the highest number of deaths and we also observed that the age group of 20-30 had the most survivors. With all this being graphically plotted and observed, we can conclude that Passenger Class, Sex of the Passenger and the Age of the Passenger were the three factors, that contributed to the survival of the passengers.

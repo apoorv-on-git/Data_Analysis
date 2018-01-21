@@ -1,0 +1,18 @@
+Report for the Handwashing Dataset.
+
+Introduction -
+This dataset was collected by a Hungarian doctor, who was worried about the number of deaths of women due to childbed fever in the early 1840s.
+This dataset includes the data for 2 clinics with the yearly number of births in the hospital and the deaths of the women. What were causing these childbed fevers? It was a big question to be answered to control the number of deaths at the clinics.
+
+Data -
+The first dataset contains the number of births and deaths of two clinics, along with the corresponding years.
+The second dataset contains the same data, the number of deaths and births. This dataset contains data only for the first clinic and it contains this data for corresponding months of the various years.
+
+Methods -
+For the given two datasets, we first calculated the proportion of deaths for the corresponding years and months. We tried to identify the statistically significant abnormalities in the trends of the data and we tried to identify the reason for those abnormalities to occur. We also statistically verified our conclusions.
+
+Analysis -
+On comparing the proportion of deaths of the two clinics, it was observed that the first clinic had an unexpectedly high proportion of deaths. We further went into the detail by trying to observe the trend of the proportions of death of the first clinic and noticed a statistically significant drop since the mid of 1847. On further investigation, we learned about the fact that this significant drop was caused right after the doctors started handwashing. The difference of the means of the proportions of deaths before and after handwashing was taken and a confidence interval of 95% was calculated to verify if this drop in the proportion of death is due to handwashing.
+
+Results -
+It is concluded that the number of deaths from childbed fever were significantly reduced as the doctors started handwashing. It shows the importance of maintaining hygiene.
